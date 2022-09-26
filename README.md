@@ -1,5 +1,5 @@
 # tic-tac-toe_Golang
-tic tac toe with Go language( for fun :D)
+tic tac toe with Go language
 
 ## Description
 a game that we all know and can play in the terminal environment without any prerequisites<br>
